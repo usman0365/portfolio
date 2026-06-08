@@ -13,37 +13,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a Web Developer and CMS Specialist who loves building secure, 
+              high-performance websites and digital storefronts. Over time, I’ve 
+              developed a deep passion for e-commerce design, site optimization, 
+              and server hardening.
               <br />
               <br />
-              I’m proficient in
+              I’m highly proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  WordPress, Shopify, PHP, Liquid, and JavaScript{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I work across front-end themes, custom API integrations, and back-end databases.
               <br />
               <br />
-              My key areas of interest include developing
+              My key areas of interest include building custom
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  E-commerce Platforms, WooCommerce Storefronts,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and implementing advanced security measures to protect customer data.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              Whenever possible, I apply my knowledge of
+              <b className="purple"> Core Web Vitals, SEO Optimization, </b> and speed optimization using tools like
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">PageSpeed Insights</b>, custom caching layers, and database tuning to ensure peak performance and high search engine rankings.
               </i>
             </p>
           </Col>

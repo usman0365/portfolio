@@ -22,7 +22,7 @@ function Toolstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons ">
-        <img src={intelliJ} alt="go" className="tech-icon-images" />
+        <img src={intelliJ} alt="IntelliJ" className="tech-icon-images" />
         <div className="tech-icons-text">IntelliJ</div>
       </Col>
     </Row>
