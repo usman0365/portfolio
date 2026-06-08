@@ -14,6 +14,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { FaWhatsapp } from "react-icons/fa";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -87,12 +88,11 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/usman0365/Portfolio"
+                href="https://wa.me/37258464926"
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
+                <FaWhatsapp style={{ fontSize: "1.2em" }} />
               </Button>
             </Nav.Item>
           </Nav>
