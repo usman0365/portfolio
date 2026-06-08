@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Headless Shopify Store"
-              description="A high-performance headless commerce website built with Next.js, Tailwind CSS, and Shopify Storefront API. Fully optimized for Core Web Vitals, featuring a custom shopping cart, dynamic search filters, and checkout integrations."
-              ghLink="#"
-              demoLink="#"
+              title="Wellness Coach Theme"
+              description="A custom WordPress theme built specifically for health and wellness coaches. Features a dynamic booking system, bespoke Elementor widgets, and a fully responsive layout optimized for mobile coaching clients."
+              ghLink="https://github.com/usman0365/wellness-coach-clone"
+              demoLink="https://wellness-coach-tau.vercel.app/"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="SpeedBoost WooCommerce"
-              description="A comprehensive optimization plugin/suite for large WooCommerce stores. Implements database index tuning, query caching (Redis), critical path CSS generation, WebP conversion, and lazy-loading, boosting Google PageSpeed scores from 30 to 95+."
-              ghLink="#"
-              demoLink="#"
+              title="Dental Clinic Pro"
+              description="A professional WordPress website tailored for dental practices. Built with a custom post type for services, integrated appointment scheduling, patient testimonial sliders, and advanced SEO optimization."
+              ghLink="https://github.com/usman0365/dental-care-clone"
+              demoLink="https://dental-care-sandy.vercel.app/"
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="WP-Guard Security"
-              description="Security configuration suite and audit framework for enterprise WordPress environments. Features custom login URL obfuscation, REST API restriction, SQL injection filters, malware scanner automation, and XML-RPC attack mitigation."
-              ghLink="#"
-              demoLink="#"
+              title="Sneaker Store E-commerce"
+              description="A high-conversion WooCommerce store for a streetwear sneaker brand. Features a custom dark-mode aesthetic, dynamic product filtering, AJAX add-to-cart, and a streamlined multi-step checkout process."
+              ghLink="https://github.com/usman0365/shoe-store-clone"
+              demoLink="https://shoe-store-liart.vercel.app/"
             />
           </Col>
 
